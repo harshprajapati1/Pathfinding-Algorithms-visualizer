@@ -1,5 +1,5 @@
 # Pathfinding-Algorithms-visualizer
-This projects implements all the informed searching algorithms
+This projects implements all the informed searching algorithms.\n
 Currently this project only implements the A-star pathfinding algorithm.
 
 DEMONSTRATION:
