@@ -13,4 +13,4 @@ DEMONSTRATION:
 7. Whenever you have completed designing the maze Press 'Enter' to run the program.
 
 
-![image](https://github.com/harshprajapati1/Pathfinding-Algorithms-visualizer/assets/73234038/ca109d0b-4669-4e5a-a228-02179aefb52f)
+![image](https://github.com/harshprajapati1/Pathfinding-Algorithms-visualizer/assets/73234038/ca109d0b-4669-4e5a-a228-02179aefb52f = 250x250)
